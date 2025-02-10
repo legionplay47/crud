@@ -12,7 +12,7 @@
 
 <body>
     <header class="bg-primary text-white text-center py-4">
-        <h1>Sistema de Ventas 2.0</h1>
+        <h1>Sistema de Ventas</h1>
         <p class="lead">Gestión de productos</p>
     </header>
 
